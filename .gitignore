@@ -1,6 +1,3 @@
-# Created by .ignore support plugin (hsz.mobi)
-docker/
-
 ###> symfony/framework-bundle ###
 app/symfony/.env.local
 app/symfony/.env.local.php
