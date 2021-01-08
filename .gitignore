@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+docker/
+
+###> symfony/framework-bundle ###
+app/symfony/.env.local
+app/symfony/.env.local.php
+app/symfony/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+app/symfony/public/bundles/
+app/symfony/var/
+app/symfony/vendor/
+###< symfony/framework-bundle ###
+
+###> symfony/phpunit-bridge ###
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
